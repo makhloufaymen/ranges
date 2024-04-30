@@ -13,32 +13,6 @@ This command will build and start the Spring Boot application.
 
 The project includes JUnit test cases to ensure the correctness and performance of the service that retrieves labels of ranges.
 
-## Endpoints
-
-The application exposes an endpoint to get the label for a given item. You can access it using the following URL:
-
-Certainly! Here's the content for the README.md file:
-
-css
-Copy code
-# Spring Boot Project
-
-This Spring Boot project implements a service to retrieve labels of ranges and includes endpoints for testing.
-
-## How to Run
-
-To run the application, you need to use the following command:
-
-mvnw spring-boot:run
-
-bash
-Copy code
-
-This command will build and start the Spring Boot application.
-
-## JUnit Testing
-
-The project includes JUnit test cases to ensure the correctness and performance of the service that retrieves labels of ranges.
 
 ## Endpoints
 
